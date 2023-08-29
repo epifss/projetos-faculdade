@@ -1,2 +1,2 @@
 # projetos-faculdade
-projetos que fao para a faculdade
+projetos que faço para praticar o que aprendo na faculdade
